@@ -97,8 +97,9 @@ if( empty( $_SESSION['id_user'] ) ){
 
 
     <!-- Bootstrap core JavaScript, Placed at the end of the document so the pages load faster -->
-    <script src="js/bootstrap.min.js"></script>
 	<script src="js/jquery-ui.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+
 
   </body>
 
